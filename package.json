@@ -1,1 +1,16 @@
-﻿
+﻿"{
+    "name": "name",
+    "description": "",
+    "version": "1.0.0",
+    "main": "server/server.js",
+    "dependencies": {}
+}"
+
+"scripts":{
+    "start": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "dependencies": {}
+}

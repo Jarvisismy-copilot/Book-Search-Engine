@@ -2,7 +2,6 @@
 
 ## Description
 
->>> Edit**
 
   ## Table of Contents 📖
   
@@ -24,16 +23,16 @@
   
 
   ## Installation
->>> Edit ** 
+
 
   ## Usage 
->>> Edit **
+
 
 ## Links
 
-[Screen_Shot] (add Screenhot 1.0)
+[Screen_Shot] ()
 
-[Screen_Recording] (add Screen recording 2.0)
+[Screen_Recording] ()
 
 ______________________________________________________________________________
 
@@ -49,7 +48,6 @@ ______________________________________________________________________________
 
 ## Tests 
 
->>> - Edit ** If Necessary... 
 
 
 ## Credits 
