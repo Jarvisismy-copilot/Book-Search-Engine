@@ -1,7 +1,7 @@
 # Book Search Engine
 
 ## Description
-
+User can sign up and log in for an account, search for a book of their liking and added to a list of saved books, users can also remove the saved books. Mern Stack implemeted with Apollo server and Graphql.
 
   ## Table of Contents 📖
   
@@ -30,9 +30,9 @@
 
 ## Links
 
-[Screen_Shot] ()
+![Screen_Shot] ()
 
-[Screen_Recording] ()
+![Screen_Recording] ()
 
 ______________________________________________________________________________
 
@@ -43,8 +43,16 @@ ______________________________________________________________________________
   
 ## Built-With
 
+- JavaScript
+- React
+- Node.js
+- Express
+- Apollo 
+- Graphql
+- MongoDB
+- Mongoose
 
-....
+
 
 ## Tests 
 
